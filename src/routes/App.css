@@ -1,0 +1,39 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background: #ececec;
+  font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+}
+.header{
+  min-width: 960px;
+  background: #f9f9f9;
+}
+.bgColor{
+  background: #f9f9f9;
+}
+.logo {
+  height: 64px;
+  width: 180px;
+  background: url(../assets/logo2.png) no-repeat;
+  background-size: auto 64px;
+  display: inline-block;
+}
+.menu{
+  background: #f9f9f9;
+  display: inline-block;
+  margin-left: 100px;
+  font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+}
+.footer{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: #fff;
+  color: #999;
+  text-align: center;
+}
+.footer a{
+  color: #999;
+  margin: 0 5px;
+}
